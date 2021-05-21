@@ -58,7 +58,7 @@
 <!--* Yasen Kiprov (yasen.kiprov@gmail.com)-->
 <!--* Yulian Borisov (julian.borisov@yahoo.com)-->
 
-**Archives**: [https://marchev-science.github.io/Summer-school-on-research-methods-2020/](Summer School on Research Methods 2020)
+**Archives**: [Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)
 
 ## Programme
 (subject to change)  
