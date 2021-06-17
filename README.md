@@ -2,7 +2,7 @@
 
 **Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-14-19.03.2021). 
 
-**Application**: Deadline for application is June 10, 2021 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
+**Application**: Deadline for application is June 30, 2021 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
 **Location**: Online in Zoom sessions (Aproved participants would receive hyperlink)
 
@@ -36,7 +36,7 @@
 
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
-**Organizer**: Faculty of Economics, Sofia University. For questions: angel.marchev@yahoo.com
+**Organizer**: Faculty of Economics, Sofia University. In partnership with University for National and World Economy and Technical University Sofia. For questions: angel.marchev@yahoo.com
 
 **Lecturers**:
 * Angel Marchev Jr. (angel.marchev@basaga.org)
@@ -64,28 +64,30 @@
 (subject to change)  
 
 **2020-07-04 Fundamentals**  
-09:30 - 10:30 Organizational issues    
-11:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  -->  
-14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  -->  
+09:30 - 10:00 Organizational issues    
+10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!-- [video]()  -->  
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!-- [video](), [materials]()  -->  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-05 Fundamentals**  
-09:30 - 12:00 Angel Marchev, Sr. - General Systems Theory: a systematic approach to research <!--[video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev/)  -->  
-12:30 - 13:30 Workshop: Angel Marchev, Jr., Petar Nikolov - Introduction to Python & Jupyter notebook <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev-jr/)  -->  
-14:30 - 17:00 Workshop: Julian Borisov - Introduction to KNIME <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/borisov/)  -->  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](), [materials]()  -->  
+14:00 - 15:00 Workshop:  - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
+15:30 - 17:30 Workshop: Sergey Vichev - SQL Fundamentals <!-- [video](), [materials]()  -->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
+14:00 - 17:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  -->  
+
+
 **2020-07-06 Fundamentals**  
-09:30 - 11:30 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/marchev/)  -->  
-12:00 - 13:00 Boryana Bogdanova - Introduction to R & R studio <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  -->  
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/)  -->  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!-- [video]()  -->  
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange <!-- [video]()  -->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-07 Mathematical concepts**  
-09:30 - 11:00 Mladen Savov - Introduction to probability <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/savov/)  -->  
-11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/haralampiev/) -->   
-14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/efremov/)  -->  
-15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/nikolov/)  -->  
+09:30 - 11:00 Demir Tonchev - Introduction to probability <!-- [video](), [materials]()  -->  
+11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!-- [video](), [materials]() -->   
+14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization <!-- [video](), [materials]()  -->  
+15:30 - 17:00 Pavel Nikolov - Fast Fourier Transform <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-08 Machine learning methods**  
