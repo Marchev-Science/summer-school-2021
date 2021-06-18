@@ -26,6 +26,7 @@
 
 **Technical requirements**: Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
 * Python 3.8 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* Anaconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Jupyter Notebook [https://jupyter.org/install](https://jupyter.org/install)
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
@@ -102,7 +103,7 @@
 **2020-07-10 Applications**  
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources <!-- [video](), [materials]()  -->  
-14:00 - 16:00 Workshop: Demir Tonchev - ML workflow <!-- [video](), [materials]()  -->  
+14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn <!-- [video](), [materials]()  -->  
 16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust (making snakes go brrr via oxidation) <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
