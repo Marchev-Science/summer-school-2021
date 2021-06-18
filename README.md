@@ -1,14 +1,19 @@
 # Summer school on modelling and complex systems 2021
 
+## Application
 **Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-14-19.03.2021). 
-
-**Application**: Deadline for application is June 30, 2021 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
 **Location**: Online in Zoom sessions (Aproved participants would receive hyperlink)
 
 **Time**: July 04-11, 2021 
 
-**Main objectives**:
+**Target audience**: PhD students in their first 18 months and advanced graduates (master students).  
+
+**Official language**: For written materials - English, for lectures - Bulgarian or English.
+
+**Application**: Deadline for application is June 30, 2021 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
+
+## Main objectives
 * Creating an attitude for studying and applying scientific methods in research.
 * Winning the hearts and minds of learners to apply the scientific method.
 * Permanent change of students' attitudes.
@@ -16,15 +21,14 @@
 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects. 
 
+## Certification
+
 **Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->
 
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school. The requirements are at least 70% active participation in the classes and participation in a team with a presented solution at the end. Participants who cannot take part fulltime can also join classes, but will not receive a certificate.
 
-**Target audience**: PhD students in their first 18 months and advanced graduates (master students).  
-
-**Official language**: For written materials - English, for lectures - Bulgarian or English.
-
-**Technical requirements**: Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
+## Technical requirements
+Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
 * Python 3.8 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Anaconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Jupyter Notebook [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
@@ -35,6 +39,7 @@
 * Registration in Github [https://github.com](https://github.com)
 * Zoom [https://zoom.com](https://zoom.com)
 
+## Contacts
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
 **Organizer**: Faculty of Economics, Sofia University. In partnership with University for National and World Economy and Technical University Sofia. For questions: angel.marchev@yahoo.com
@@ -55,7 +60,6 @@
 * Sergey Vichev (serjvichev@gmail.com)
 * Metodi Nikolov (metodi.nikolov@gmail.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
-
 
 **Archives**: [Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)
 
