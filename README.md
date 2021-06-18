@@ -45,6 +45,7 @@
 * Atanas Atanassov (atanassov@econometrica.bg)
 * Boryana Bogdanova (bpelova@gmail.com)
 * Demir Tonchev (tonchev.demir@gmail.com)
+* Georgi Mitov (georgi.mitov@factset.com)
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
 * Mihail Motzev (mihail.motzev@wallawalla.edu)
 <!--* Mladen Savov (mladensavov@hotmail.com)-->
@@ -69,7 +70,7 @@
   
 **2020-07-05 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](), [materials]()  -->  
-14:00 - 15:00 Workshop:  - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
+14:00 - 15:00 Workshop: [TBD] - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
 15:30 - 17:30 Workshop: Sergey Vichev - SQL Fundamentals <!-- [video](), [materials]()  -->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -92,7 +93,7 @@
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-09 Applications**  
-09:30 - 11:00  <!-- [video](), [materials]()  -->  
+09:30 - 11:00 Stanimir Kabaivanov - [TBD] <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Peter Nikolov - Smart Beta Strategies for various asset clsses part 1 <!-- [video](), [materials]()  -->  
 14:00 - 16:00 Peter Nikolov - Smart Beta Strategies for various asset clsses part 2 <!-- [video](), [materials]()  -->  
 16:30 - 17:30 Georgi Mitov - Optimization applications in porfolio and asset management <!-- [video](), [materials]()  -->  
@@ -105,12 +106,8 @@
 16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust (making snakes go brrr via oxidation) <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-
-09:30 - 11:00 Stanimir Kabaivanov - Introduction to ANN <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7), [materials]()  -->  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
-
 **2020-07-11 Perspectives**  
-09:30 - 11:00  <!-- [video](), [materials]()  -->  
-11:30 - 13:00  <!-- [video](), [materials]()  -->  
-13:00 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)  -->  
+09:30 - 11:00 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
+11:30 - 13:00 [TBD] <!-- [video](), [materials]()  -->  
+13:00 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video]()  -->  
 16:00 - 16:30 Closing ceremony  
