@@ -27,7 +27,7 @@
 **Technical requirements**: Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
 * Python 3.8 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * Anaconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
-* Jupyter Notebook [https://jupyter.org/install](https://jupyter.org/install)
+* Jupyter Notebook [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
@@ -49,7 +49,6 @@
 * Georgi Mitov (georgi.mitov@factset.com)
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
 * Mihail Motzev (mihail.motzev@wallawalla.edu)
-<!--* Mladen Savov (mladensavov@hotmail.com)-->
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
