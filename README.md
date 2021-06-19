@@ -107,7 +107,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources <!-- [video](), [materials]()  -->  
 14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn <!-- [video](), [materials]()  -->  
-16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust (making snakes go brrr via oxidation) <!-- [video](), [materials]()  -->  
+16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-11 Perspectives**  
