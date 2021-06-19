@@ -74,8 +74,8 @@ Apart from concentrating during the online classes, the aproved participants sho
   
 **2020-07-05 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](), [materials]()  -->  
-14:00 - 15:00 Workshop: [TBD] - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
-15:30 - 17:30 Workshop: Sergey Vichev - SQL Fundamentals <!-- [video](), [materials]()  -->  
+14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals <!-- [video](), [materials]()  -->  
+16:30 - 17:30 Workshop: [TBD] - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-06 Fundamentals**  
