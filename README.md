@@ -115,6 +115,6 @@ Apart from concentrating during the online classes, the aproved participants sho
 **2020-07-11 Perspectives**  
 09:30 - 11:00 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
 11:30 - 12:30 Martin Boyanov - [TBD] <!-- [video](), [materials]()  -->  
-12:30 - 13:30 Martin Boyanov - [TBD] <!-- [video](), [materials]()  -->  
+12:30 - 13:30 [TBD] <!-- [video](), [materials]()  -->  
 13:30 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video]()  -->  
 16:00 - 16:30 Closing ceremony  
