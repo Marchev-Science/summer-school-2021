@@ -58,6 +58,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Sergey Vichev (serjvichev@gmail.com)
+* Martin Boyanov (mboyanov@gmail.com)
 * Metodi Nikolov (metodi.nikolov@gmail.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
 
@@ -112,6 +113,6 @@ Apart from concentrating during the online classes, the aproved participants sho
 
 **2020-07-11 Perspectives**  
 09:30 - 11:00 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
-11:30 - 13:00 [TBD] <!-- [video](), [materials]()  -->  
+11:30 - 13:00 Martin Boyanov - [TBD] <!-- [video](), [materials]()  -->  
 13:00 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video]()  -->  
 16:00 - 16:30 Closing ceremony  
