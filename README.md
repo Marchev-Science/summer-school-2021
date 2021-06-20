@@ -28,7 +28,7 @@
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school. The requirements are at least 70% active participation in the classes and participation in a team with a presented solution at the end. Participants who cannot take part fulltime can also join classes, but will not receive a certificate.
 
 ## Technical requirements
-Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
+Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a 'personal computer' (not mobile device), webcamera, broadband internet connection, and installed with:
 * Python 3.8 [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Anaconda [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
