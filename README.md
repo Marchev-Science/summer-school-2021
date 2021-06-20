@@ -29,9 +29,9 @@
 
 ## Technical requirements
 Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a personal computer, webcamera, broadband internet connection, and installed with:
-* Python 3.8 [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
-* Anaconda [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
-* Jupyter Notebook [https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+* Python 3.8 [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
+* Anaconda [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
+* Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
