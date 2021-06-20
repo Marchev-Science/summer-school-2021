@@ -32,6 +32,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Python 3.8 [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Anaconda [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
+* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 * R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
