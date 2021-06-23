@@ -65,6 +65,9 @@ Apart from concentrating during the online classes, the aproved participants sho
 
 **Archives**: [Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)
 
+## Cases
+The cases for this year's Summer school will be revieled here.
+
 ## Programme
 (subject to change)  
 
