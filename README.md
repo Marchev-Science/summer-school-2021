@@ -103,9 +103,9 @@ The cases for this year's Summer school will be revieled here.
 
 **2020-07-09 Applications**  
 09:30 - 11:00 Stanimir Kabaivanov - [TBD] <!-- [video](), [materials]()  -->  
-11:30 - 13:00 Peter Nikolov - Smart Beta Strategies for various asset clsses part 1 <!-- [video](), [materials]()  -->  
+11:30 - 13:00 Emil Margaritov, Peter Nikolov - Smart Beta Strategies for various asset clsses part 1 <!-- [video](), [materials]()  -->  
 14:00 - 16:00 Peter Nikolov - Smart Beta Strategies for various asset clsses part 2 <!-- [video](), [materials]()  -->  
-16:30 - 17:30 Georgi Mitov - Optimization applications in porfolio and asset management <!-- [video](), [materials]()  -->  
+16:30 - 17:30 Todor Bilarev - Optimization applications in porfolio and asset management <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-10 Applications**  
@@ -118,7 +118,7 @@ The cases for this year's Summer school will be revieled here.
 **2020-07-11 Perspectives**  
 09:30 - 10:30 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
 10:30 - 11:30 Martin Boyanov - [TBD] <!-- [video](), [materials]()  -->  
-12:00 - 13:00 [TBD] <!-- [video](), [materials]()  -->  
+12:00 - 13:00 Milen Chechev - [TBD] <!-- [video](), [materials]()  -->  
 13:00 - 13:30 Milena Petkova - Entrepreneurs in Science programme by Karoll Knowledge Fundation <!-- [video](), [materials]()  -->  
 13:30 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video]()  -->  
 16:00 - 16:30 Closing ceremony  
