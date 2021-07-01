@@ -58,7 +58,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Martin Boyanov (mboyanov@gmail.com)
 * Metodi Nikolov (metodi.nikolov@gmail.com)
 * Mihail Motzev (mihail.motzev@wallawalla.edu)
-* Milen Chechev ()
+* Milen Chechev (milen.chechev@gmail.com)
 * Milena Petkova (m_petkova@karoll.bg)
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
