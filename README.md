@@ -121,7 +121,7 @@ The cases for this year's Summer school will be revieled here.
 
 **2020-07-11 Perspectives**  
 09:30 - 10:30 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
-10:30 - 11:30 Martin Boyanov - [TBD] <!-- [video](), [materials]()  -->  
+10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations <!-- [video](), [materials]()  -->  
 12:00 - 13:00 Milen Chechev - [TBD] <!-- [video](), [materials]()  -->  
 13:00 - 13:30 Milena Petkova - Entrepreneurs in Science programme by Karoll Knowledge Fundation <!-- [video](), [materials]()  -->  
 13:30 - 16:00 Conference - presentation of the solutions to the case assignments <!-- [video]()  -->  
