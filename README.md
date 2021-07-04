@@ -77,8 +77,8 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 
 **2020-07-04 Fundamentals**  
 09:30 - 10:00 Organizational issues    
-10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!-- [video]()  -->  
-14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!-- [video](), [materials]()  -->  
+10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Boyan_Markov/readme.md)  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-05 Fundamentals**  
