@@ -23,8 +23,8 @@ The cases for this year's Summer school are:
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case2),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
-3. Product Clustering, Matching & Classification - Kaggle dataset  
-[https://www.kaggle.com/lakritidis/product-clustering-matching-classification](https://www.kaggle.com/lakritidis/product-clustering-matching-classification)  
+3. Product Recommendation - Can you pair products with people?   
+[Download the data and read the case...](https://www.kaggle.com/c/santander-product-recommendation/data)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case3),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
