@@ -13,8 +13,8 @@
 The cases for this year's Summer school are:  
 
 1. The A.I. crypto trader - Make a prediction model of the major cryptocurrencies’ prices and an autonomous A.I. decision-maker for trading/investing  
-[Crypto case text] (https://github.com/Marchev-Science/summer-school-2021/blob/main/crypto_case.pdf)   
-[Crypto case data (csv or sql)](https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data)  
+[Crypto case text...] (https://github.com/Marchev-Science/summer-school-2021/blob/main/crypto_case.pdf)   
+[Crypto case data (csv or sql)...](https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case1),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->    
 
@@ -23,12 +23,12 @@ The cases for this year's Summer school are:
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case2),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
-3. Predict house prices - active Kaggle compettition  
-[https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)  
+3. Product Clustering, Matching & Classification - Kaggle dataset  
+[https://www.kaggle.com/lakritidis/product-clustering-matching-classification](https://www.kaggle.com/lakritidis/product-clustering-matching-classification)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case3),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
 4. The 04 April Parlamentary Elections - discover signs of false play and /or other peculiar tendencies in the latest parlamentary elections results (open case).    
-[Data (read the README file)](https://results.cik.bg/pi2021/export.zip)  
+[Data (read the README file)...](https://results.cik.bg/pi2021/export.zip)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case4),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
