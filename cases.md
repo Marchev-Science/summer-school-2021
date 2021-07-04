@@ -13,13 +13,13 @@
 The cases for this year's Summer school are:  
 
 1. The A.I. crypto trader - Make a prediction model of the major cryptocurrencies’ prices and an autonomous A.I. decision-maker for trading/investing  
-[Crypto case text...] (https://github.com/Marchev-Science/summer-school-2021/blob/main/crypto_case.pdf)   
+[Crypto case text...](https://github.com/Marchev-Science/summer-school-2021/blob/main/crypto_case.pdf)   
 [Crypto case data (csv or sql)...](https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case1),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->    
 
-2. Prediction of financial distress - separate the data into random subsets for training (70%) and testing (30%)  
-[https://www.kaggle.com/shebrahimi/financial-distress](https://www.kaggle.com/shebrahimi/financial-distress)  
+2. World Development indicators (panel data) - Discover factors for contry economic development and make recommendations  
+[Download data...](https://www.kaggle.com/sohelranaccselab/world-development-indicator-data2021)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case2),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
