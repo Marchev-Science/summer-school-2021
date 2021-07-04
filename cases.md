@@ -12,8 +12,9 @@
 
 The cases for this year's Summer school are:  
 
-1. Status of a bank loan - predict the status of the loans in the testing set, based on the training set.  
-[https://www.kaggle.com/zaurbegiev/my-dataset](https://www.kaggle.com/zaurbegiev/my-dataset)  
+1. The A.I. crypto trader - Make a prediction model of the major cryptocurrencies’ prices and an autonomous A.I. decision-maker for trading/investing  
+[Crypto case text] (https://github.com/Marchev-Science/summer-school-2021/blob/main/crypto_case.pdf)   
+[Crypto case data (csv or sql)](https://www.kaggle.com/bizzyvinci/coinmarketcap-historical-data)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case1),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->    
 
@@ -27,7 +28,7 @@ The cases for this year's Summer school are:
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case3),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
 
-4. Propose optimal public policy for dealing with COVID-19 epidemic - Task 2 of the online data Covid 19 challenge, using Public policy data and daily cases data.    
-[https://www.datasciencesociety.net/dss-covid-19-online-challenge/](https://www.datasciencesociety.net/dss-covid-19-online-challenge/)  
+4. The 04 April Parlamentary Elections - discover signs of false play and /or other peculiar tendencies in the latest parlamentary elections results (open case).    
+[Data (read the README file)](https://results.cik.bg/pi2021/export.zip)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case4),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->      
