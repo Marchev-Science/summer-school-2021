@@ -1,6 +1,6 @@
 ## Delivery of the case solutions:
 
-1. Before the 13:00 deadline you should deliver the solutions [here...](http://bit.ly/predavane)
+1. Before the deadline (13:00,11.07.2021) you should deliver the solutions [here...](http://bit.ly/predavane)
 2. The solution should consist of at least the following:
 * Code / workflow files which could be run on some of the required software for the summer school.
 * In the code or in additional files there should be complete explanations, visualisations and data anaysis results to solve the case.
