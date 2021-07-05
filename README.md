@@ -84,8 +84,8 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 **2020-07-05 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](), [materials]()  -->  
 14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals <!-- [video](), [materials]()  -->  
-16:30 - 17:30 Workshop: [TBD] - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
+16:30 - 17:30 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio <!-- [video](), [materials]()  -->  
+17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-06 Fundamentals**  
 09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!-- [video]()  -->  
