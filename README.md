@@ -82,7 +82,7 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-05 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](), [materials]()  -->  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Sergey_Vichev/readme.md)  
 16:30 - 17:30 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Angel_Marchev_Jr/readme.md)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
