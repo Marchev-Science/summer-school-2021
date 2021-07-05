@@ -9,7 +9,7 @@
 
 **Target audience**: PhD students in their first 18 months and advanced graduates (master students).  
 
-**Official language**: For written materials - English, for lectures - Bulgarian or English.
+**Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.
 
 **Application**: Deadline for application is June 30, 2021 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve hyperlink.
 
