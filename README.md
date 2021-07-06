@@ -1,4 +1,4 @@
--# Summer school on modelling and complex systems 2021
+# Summer school on modelling and complex systems 2021
 
 ## Application
 **Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-14-19.03.2021). 
