@@ -88,8 +88,8 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-06 Fundamentals**  
-09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!-- [video]()  -->  
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange <!-- [video]()  -->  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Alexander_Efremov/readme.md)   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Kaloyan_Haralampiev/readme.md)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-07 Mathematical concepts**  
