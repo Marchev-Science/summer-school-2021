@@ -78,18 +78,18 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 **2020-07-04 Fundamentals**  
 09:30 - 10:00 Organizational issues    
 10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Boyan_Markov/)  
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Boyan_Markov)  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2020-07-05 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Sergey_Vichev/)  
-16:30 - 17:30 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Angel_Marchev_Jr/)  
+14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Sergey_Vichev)  
+16:30 - 17:30 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Angel_Marchev_Jr)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-06 Fundamentals**  
-09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Alexander_Efremov/)   
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Kaloyan_Haralampiev/)  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Alexander_Efremov)   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Kaloyan_Haralampiev)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2020-07-07 Mathematical concepts**  
