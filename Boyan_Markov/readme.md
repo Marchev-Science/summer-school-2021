@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e159a3358ded8ab497df0937542fcc6a2bf780f3506b299fbb35a78d99fde450
-size 621
+Continuing the python lecture, here are some useful resources:  
+Files from today are uploaded in [this directory.](https://github.com/Marchev-Science/summer-school-2021/tree/main/Boyan_Markov)  
+The YouTube Channel, where I upload Python projects (eng):  
+[https://www.youtube.com/channel/UCKnyvPPEJw0hQM-OrTSs69A](https://www.youtube.com/channel/UCKnyvPPEJw0hQM-OrTSs69A)  
+Website for learning Python through tasks:  
+[https://www.codewars.com/dashboard](https://www.codewars.com/dashboard)  
+Free book for python with many leads:  
+[https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)  
