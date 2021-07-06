@@ -75,51 +75,51 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 ## Programme
 (subject to change)  
 
-**2020-07-04 Fundamentals**  
+**2021-07-04 Fundamentals**  
 09:30 - 10:00 Organizational issues    
 10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Boyan_Markov/readme.md)  
 17:00 - 19:30 Workshop: Explaining the cases    
   
-**2020-07-05 Fundamentals**  
+**2021-07-05 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 14:00 - 16:00 Workshop: Sergey Vichev - SQL Fundamentals [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Sergey_Vichev/readme.md)  
 16:30 - 17:30 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Angel_Marchev_Jr/readme.md)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-06 Fundamentals**  
+**2021-07-06 Fundamentals**  
 09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Alexander_Efremov/readme.md)   
 14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Kaloyan_Haralampiev/readme.md)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-07 Mathematical concepts**  
+**2021-07-07 Mathematical concepts**  
 09:30 - 11:00 Demir Tonchev - Introduction to probability <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!-- [video](), [materials]() -->   
 14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization <!-- [video](), [materials]()  -->  
 15:30 - 17:00 Atanas Atanassov - How to prepare comparative time series <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-08 Artificial intelligence**  
+**2021-07-08 Artificial intelligence**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage seletion procedure and Self-organization <!-- [video](), [materials]()  -->  
 14:00 - 16:00 Mihail Motzev - Statistical Learning Networks <!-- [video](), [materials]()  -->  
 16:30 - 17:30 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-09 Applications**  
-09:30 - 11:00 Stanimir Kabaivanov - [TBD] <!-- [video](), [materials]()  -->  
+**2021-07-09 Applications**  
+09:30 - 11:00 Stanimir Kabaivanov - Anomaly detection in time series data <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Emil Margaritov, Peter Nikolov - Smart Beta Strategies for various asset clsses part 1 <!-- [video](), [materials]()  -->  
 14:00 - 15:30 Peter Nikolov - Smart Beta Strategies for various asset clsses part 2 <!-- [video](), [materials]()  -->  
 16:00 - 17:30 Todor Bilarev - Optimization applications in porfolio and asset management <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-10 Applications**  
+**2021-07-10 Applications**  
 09:30 - 11:00 Workshop: Alexander Efremov - Choice of model structure <!-- [video](), [materials]()  -->  
 11:30 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources <!-- [video](), [materials]()  -->  
 14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn <!-- [video](), [materials]()  -->  
 16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2020-07-11 Perspectives**  
+**2021-07-11 Perspectives**  
 09:30 - 10:30 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
 10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations <!-- [video](), [materials]()  -->  
 12:00 - 13:00 Milen Chechev - ML Livecycle and productinization <!-- [video](), [materials]()  -->  
