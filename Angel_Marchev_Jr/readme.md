@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2d420f45345b57c4bf39f89991610cfce7a9fc0d8a21a6aebceadd6b6246d1c8
-size 205
+In [this directory](https://github.com/Marchev-Science/summer-school-2021/tree/main/Angel_Marchev_Jr/):  
+R Introduction working files - R-tutorial.html, R-tutorial.ipynb, R-tutorial.r, 01. Belgium.xlsx
