@@ -120,7 +120,7 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2021-07-11 Perspectives**  
-09:30 - 10:30 Boryana Bogdanova - [TBD] <!-- [video](), [materials]()  -->  
+09:30 - 10:30 Boryana Bogdanova - Human role in AI <!-- [video](), [materials]()  -->  
 10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations <!-- [video](), [materials]()  -->  
 12:00 - 13:00 Milen Chechev - ML Livecycle and productinization <!-- [video](), [materials]()  -->  
 13:00 - 13:30 Milena Petkova - Entrepreneurs in Science programme by Karoll Knowledge Fundation <!-- [video](), [materials]()  -->  
