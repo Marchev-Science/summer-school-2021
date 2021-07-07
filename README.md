@@ -93,8 +93,8 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2021-07-07 Mathematical concepts**  
-09:30 - 11:00 Demir Tonchev - Introduction to probability <!-- [video](), [materials]()  -->  
-11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!-- [video](), [materials]() -->   
+09:30 - 10:30 Demir Tonchev - Introduction to probability [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Demir_Tonchev/readme.md)  
+11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!-- [video](), [materials]() -->   
 14:00 - 15:00 Alexander Efremov - Introduction to Numerical Optimization <!-- [video](), [materials]()  -->  
 15:30 - 17:00 Atanas Atanassov - How to prepare comparative time series <!-- [video](), [materials]()  -->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
