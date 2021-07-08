@@ -27,7 +27,7 @@ Step = distance between values
 n = number of parameters
 k = number of values for a parameter
 
-2D grid
+2D grid  
 *---*---*---*---*  
 |   |   |   |   |  
 *---*---*---*---*  
