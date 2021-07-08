@@ -101,7 +101,7 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 
 **2021-07-08 Artificial intelligence**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Angel_Marchev_Jr/readme.md)  
-14:00 - 16:00 Mihail Motzev - Statistical Learning Networks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
+14:00 - 16:00 Mihail Motzev - Statistical Learning Networks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Mihail_Motzev/readme.md)  
 16:30 - 17:30 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Pavel_Nikolov/readme.md)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
