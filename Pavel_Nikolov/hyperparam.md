@@ -28,6 +28,7 @@ n = number of parameters
 k = number of values for a parameter
 
 2D grid  
+<pre>
 o---o---o---o---o  
 |   |   |   |   |  
 o---o---o---o---o  
@@ -35,6 +36,7 @@ o---o---o---o---o
 o---o---o---o---o  
 |   |   |   |   |  
 o---o---o---o---o  
+</pre>
 
 param1 - k=5
 param2 - k=4
