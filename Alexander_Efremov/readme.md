@@ -8,4 +8,4 @@ Introduction to Optimization
 ![](https://github.com/Marchev-Science/summer-school-2021/blob/main/Alexander_Efremov/IntroToNumericalOptimization_2021.png)
 
 Determination of model structure
-<!--![](https://github.com/Marchev-Science/summer-school-2021/blob/main/Alexander_Efremov/IntroToNumericalOptimization_2021.png)-->
+![](https://github.com/Marchev-Science/summer-school-2021/blob/main/Alexander_Efremov/ModelStructure.png)
