@@ -107,9 +107,9 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 
 **2021-07-09 Applications**  
 09:30 - 11:00 Stanimir Kabaivanov - Anomaly detection in time series data [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-11:30 - 13:00 Emil Margaritov, Peter Nikolov - Smart Beta Strategies for various asset clаsses part 1 [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
+11:30 - 13:00 Emil Margaritov, Peter Nikolov - Smart Beta Strategies for various asset clаsses part 1 [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Peter_Nikolov/readme.md)  
 14:00 - 15:30 Peter Nikolov - Smart Beta Strategies for various asset clаsses part 2 [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-16:00 - 17:30 Todor Bilarev - Optimization applications in portfolio and asset management <!-- [video](), [materials]()  -->  
+16:00 - 17:30 Todor Bilarev - Optimization applications in portfolio and asset management [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2021-07-10 Applications**  
