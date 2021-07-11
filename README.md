@@ -114,15 +114,15 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 
 **2021-07-10 Applications**  
 09:30 - 11:30 Workshop: Alexander Efremov - Determination of model structure [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](/Alexander_Efremov/readme.md)   
-12:00 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials]()  
+12:00 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Yasen_Kiprov/readme.md)  
 14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](https://github.com/DemirTonchev/DSS21)  
 16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](https://github.com/MetodiNikolov/SummerSchool2021)  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2021-07-11 Perspectives**  
 09:30 - 10:30 Boryana Bogdanova - Human role in AI [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-12:00 - 13:00 Milen Chechev - ML Lifecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
+10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)      
+12:00 - 13:00 Milen Chechev - ML Lifecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Milen_Chechev/readme.md)    
 13:00 - 13:30 Milena Petkova - Entrepreneurs in Science programme by Karoll Knowledge Fundation [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 13:30 - 16:00 Conference - presentation of the solutions to the case assignments [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 16:00 - 16:30 Closing ceremony  
