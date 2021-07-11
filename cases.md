@@ -40,8 +40,8 @@ The cases for this year's Summer school are:
 
 Task 1: Predict if a future customer will pay back the loan. Make a model to assess whether or not a new customer is likely to pay back the loan. You can use several different machine learning models.   
 
-Task 2: Classify Loans by Grade. Categorize accepted loans into one of the seven loan grades. In the accepted loans data, we have a column called "grade." It takes values from A-G (A is the best, G is the worst). The task is to build a classifier that, given some other features, can accurately categorize a loan by grade.
+Task 2: Classify Loans by Grade. Categorize accepted loans into one of the seven loan grades. In the accepted loans data, we have a column called "grade." It takes values from A-G (A is the best, G is the worst). The task is to build a classifier that, given some other features, can accurately categorize a loan by grade.   
 
-[Accepted loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=accepted_2007_to_2018Q4.csv.gz)
-[Rejected loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz)
+[Accepted loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=accepted_2007_to_2018Q4.csv.gz)   
+[Rejected loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz)   
 
