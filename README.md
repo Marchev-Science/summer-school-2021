@@ -38,7 +38,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->
 * Registration in Github [https://github.com](https://github.com)
-* Zoom [https://zoom.com](https://zoom.com)
+* Zoom [https://zoom.com](https://zoom.com) with installed personal photo
 
 ## Contacts
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
