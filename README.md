@@ -122,7 +122,7 @@ The cases for this year's Summer school are [revieled here...](cases.md)
 **2021-07-11 Perspectives**  
 09:30 - 10:30 Boryana Bogdanova - Human role in AI [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
-12:00 - 13:00 Milen Chechev - ML Livecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
+12:00 - 13:00 Milen Chechev - ML Lifecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 13:00 - 13:30 Milena Petkova - Entrepreneurs in Science programme by Karoll Knowledge Fundation [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 13:30 - 16:00 Conference - presentation of the solutions to the case assignments [video](https://youtube.com/playlist?list=PLX9ryRl9v7BDbY1DoUppGoOcNahp6g4re)  
 16:00 - 16:30 Closing ceremony  
