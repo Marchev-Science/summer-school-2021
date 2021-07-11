@@ -32,3 +32,16 @@ The cases for this year's Summer school are:
 [Data (read the README file)...](https://results.cik.bg/pi2021/export.zip)  
 
 <!--[Team solutions here...](https://github.com/Marchev-Science/Summer-school-on-research-methods-2020/tree/master/case4),  [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BBAc8p5MengERUKWq-rr_J7)-->  
+
+
+## A case for homework exercise
+
+5. Lending club - find a suitable customer for a loan. This dataset contains the full LendingClub data from 2007 to 2018. There are separate files for accepted and rejected loans. The accepted loans also include the FICO scores, which can only be downloaded when you are signed in to LendingClub and download the data.  
+
+Task 1: Predict if a future customer will pay back the loan. Make a model to assess whether or not a new customer is likely to pay back the loan. You can use several different machine learning models.   
+
+Task 2: Classify Loans by Grade. Categorize accepted loans into one of the seven loan grades. In the accepted loans data, we have a column called "grade." It takes values from A-G (A is the best, G is the worst). The task is to build a classifier that, given some other features, can accurately categorize a loan by grade.
+
+[Accepted loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=accepted_2007_to_2018Q4.csv.gz)
+[Rejected loans data](https://www.kaggle.com/wordsforthewise/lending-club?select=rejected_2007_to_2018Q4.csv.gz)
+
